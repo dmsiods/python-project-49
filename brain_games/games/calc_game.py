@@ -1,4 +1,4 @@
-from abstract_game import AbstractGame
+from brain_games.games.abstract_game import AbstractGame
 from random import randint, choice
 
 
