@@ -3,6 +3,7 @@
 .venv
 
 /tmp.py
+/asciinema_casts
 
 *.egg-info
 __pycache__
