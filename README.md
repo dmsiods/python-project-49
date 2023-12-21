@@ -3,3 +3,4 @@
 <a href="https://codeclimate.com/github/dmsiods/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/f372db7fde4cdfdd4a4a/maintainability" /></a>
 
 Asciinema of step 5 (brain-even): https://asciinema.org/a/D9YUyLhUk7cCOK9GlGSDKS514
+Asciinema of step 6 (brain-calc): https://asciinema.org/a/uVGyMuNS3Gpb3TX6G6629HO52
