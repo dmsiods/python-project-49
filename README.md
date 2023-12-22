@@ -7,3 +7,5 @@ Asciinema of step 5 (brain-even): https://asciinema.org/a/D9YUyLhUk7cCOK9GlGSDKS
 Asciinema of step 6 (brain-calc): https://asciinema.org/a/uVGyMuNS3Gpb3TX6G6629HO52
 
 Asciinema of step 7 (brain-gcd): https://asciinema.org/a/yne9nt6kSclZHWbDBCwGzurBn
+
+Asciinema of step 8 (brain-progression): https://asciinema.org/a/MPSXLySAGHCuyY82J792q8pVm
