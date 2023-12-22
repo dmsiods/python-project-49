@@ -3,8 +3,8 @@ from brain_games.games.gcd_game import GcdGame
 
 
 def main():
-    even_game = GcdGame()
-    even_game.process_game()
+    gcd_game = GcdGame()
+    gcd_game.process_game()
 
 
 if __name__ == '__main__':
